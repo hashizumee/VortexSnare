@@ -46,7 +46,7 @@ Intelligence Logs
 ## 📥 Instalasi
 
 ```bash
-git clone https://github.com/yourusername/vortexsnare.git
+https://github.com/hashizumee/VortexSnare.git
 cd vortexsnare
 ````
 
